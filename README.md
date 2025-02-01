@@ -29,7 +29,7 @@ This web application displays lists of board games and their reviews. While anyo
 - UI components created with Thymeleaf and styled with Twitter Bootstrap
 - Authentication and authorization using Spring Security
   - Authentication by allowing the users to authenticate with a username and password
-  - Authorization by granting different permissions based on the roles (non-members, users, and managers)
+  - Authorization by granting different permissions based on the roles (non-members, users and managers)
 - Different roles (non-members, users, and managers) with varying levels of permissions
   - Non-members only can see the boardgame lists and reviews
   - Users can add board games and write reviews
